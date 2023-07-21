@@ -1,0 +1,72 @@
+#welcome {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    text-decoration: none;
+    color:white;
+    background-color: #aa96da; 
+    font-weight: bolder;           
+}
+
+
+.bg-shan {
+    background-color: #aa96da !important;
+    color: whitesmoke;
+ }
+
+.text-shan {
+    color: #aa96da !important; }
+
+.god-bless{
+    font-size: 2rem;    
+}
+
+pre{
+    font-weight: bolder;
+    position: relative;
+    text-align: center;
+    margin-right: rem;
+}
+
+#hedge {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5rem;
+    width: 50%;
+}
+
+.to_do {
+    list-style-type: none;
+    font-size: large;
+    background-color: #aa96da;
+    color: white;
+    text-align: center;
+    font-weight: bold;       
+}
+
+.carousel-item{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1rem;
+    padding-top: 0%;
+}
+
+.list-group-item-shan {
+    color: #665a83;
+    background-color: #eeeaf8; }
+
+.list-group-item-shan.list-group-item-action.active {
+    color: #fff;
+    background-color: #665a83;
+    border-color: #665a83; }
+
+    li{
+        font-weight: bold ;
+    }
+
+    p{
+        font-weight: bold;
+    }
